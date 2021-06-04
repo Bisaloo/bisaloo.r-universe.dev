@@ -14,5 +14,8 @@
   {
     "package": "mcmcensemble",
     "url": "https://github.com/bisaloo/mcmcensemble",
-  }
+  },
+  {
+    "package": "semaforos",
+    "url": "https://github.com/bisaloo/semaforos"
 ]
