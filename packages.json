@@ -1,0 +1,26 @@
+[
+  {
+    "package": "asymptor",
+    "maintainer": "Hugo Gruson <hugo.gruson+R@normalesup.org>",
+    "url": "https://github.com/bisaloo/asymptor",
+    "available": true
+  },
+  {
+    "package": "contactdata",
+    "maintainer": "Hugo Gruson <hugo.gruson+R@normalesup.org>",
+    "url": "https://github.com/bisaloo/contactdata",
+    "available": true
+  },
+  {
+    "package": "fundiversity",
+    "maintainer": "Matthias Grenié <matthias.grenie@gmail.com>",
+    "url": "https://github.com/bisaloo/fundiversity",
+    "available": true
+  },
+  {
+    "package": "mcmcensemble",
+    "maintainer": "Hugo Gruson <hugo.gruson+R@normalesup.org>",
+    "url": "https://github.com/bisaloo/mcmcensemble",
+    "available": true
+  }
+]
