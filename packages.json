@@ -18,5 +18,13 @@
   {
     "package": "semaforos",
     "url": "https://github.com/bisaloo/semaforos"
+  },
+  {
+    "package": "lightr",
+    "url": "https://github.com/ropensci/lightr"
+  },
+  {
+    "package": "rromeo",
+    "url": "https://github.com/ropensci/rromeo"
   }
 ]
