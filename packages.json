@@ -16,6 +16,10 @@
     "url": "https://github.com/bisaloo/mcmcensemble"
   },
   {
+    "package": "simpleMH",
+    "url": "https://github.com/bisaloo/simpleMH"
+  },
+  {
     "package": "semaforos",
     "url": "https://github.com/bisaloo/semaforos"
   },
