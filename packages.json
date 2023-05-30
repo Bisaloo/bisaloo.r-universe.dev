@@ -28,10 +28,6 @@
     "url": "https://github.com/ropensci/lightr"
   },
   {
-    "package": "rromeo",
-    "url": "https://github.com/ropensci/rromeo"
-  },
-  {
     "package": "pavo",
     "url": "https://github.com/rmaia/pavo"
   },
