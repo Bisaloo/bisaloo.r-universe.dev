@@ -38,5 +38,9 @@
   {
     "package": "cransays",
     "url": "https://github.com/r-hub/cransays"
+  },
+  {
+    "package": "xlcutter",
+    "url": "https://github.com/Bisaloo/xlcutter"
   }
 ]
