@@ -38,5 +38,9 @@
   {
     "package": "xlcutter",
     "url": "https://github.com/Bisaloo/xlcutter"
+  },
+  {
+    "package": "linelist",
+    "url": "https://github.com/epiverse-trace/linelist"
   }
 ]
