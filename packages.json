@@ -42,5 +42,9 @@
   {
     "package": "linelist",
     "url": "https://github.com/epiverse-trace/linelist"
+  },
+  {
+    "package": "authoritative",
+    "url": "https://github.com/epiverse-connect/authoritative"
   }
 ]
