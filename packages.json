@@ -54,5 +54,13 @@
   {
     "package": "epinowcast",
     "url": "https://github.com/epinowcast/epinowcast"
-  }
+  },
+  {
+    "package": "numberize",
+    "url": "https://github.com/epiverse-trace/numberize"
+  },
+  {
+    "package": "socialmixr",
+    "url": "https://github.com/epiforecasts/socialmixr"
+  },
 ]
