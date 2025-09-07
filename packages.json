@@ -1,9 +1,5 @@
 [
   {
-    "package": "asymptor",
-    "url": "https://github.com/bisaloo/asymptor"
-  },
-  {
     "package": "contactdata",
     "url": "https://github.com/bisaloo/contactdata"
   },
