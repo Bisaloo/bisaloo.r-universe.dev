@@ -58,5 +58,9 @@
   {
     "package": "socialmixr",
     "url": "https://github.com/epiforecasts/socialmixr"
+  },
+  {
+    "package": "pkgicon",
+    "url": "https://github.com/Bisaloo/pkgicon"
   }
 ]
