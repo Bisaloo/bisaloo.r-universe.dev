@@ -62,5 +62,9 @@
   {
     "package": "pkgicon",
     "url": "https://github.com/Bisaloo/pkgicon"
+  },
+  {
+    "package": "Rarr",
+    "url": "https://github.com/Huber-group-EMBL/Rarr"
   }
 ]
