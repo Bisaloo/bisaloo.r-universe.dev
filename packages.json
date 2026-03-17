@@ -66,5 +66,9 @@
   {
     "package": "Rarr",
     "url": "https://github.com/Huber-group-EMBL/Rarr"
+  },
+  {
+    "package": "sessioinfo2renv",
+    "url": "https://codeberg.org/Bisaloo/sessioninfo2renv"
   }
 ]
