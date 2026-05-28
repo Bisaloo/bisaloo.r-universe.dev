@@ -8,6 +8,10 @@
     "url": "https://github.com/funecology/fundiversity"
   },
   {
+    "package": "grumpy",
+    "url": "https://github.com/bisaloo/grumpy"
+  },
+  {
     "package": "mcmcensemble",
     "url": "https://github.com/bisaloo/mcmcensemble"
   },
