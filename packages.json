@@ -68,12 +68,12 @@
     "url": "https://github.com/Huber-group-EMBL/Rarr"
   },
   {
-    "package": "sessioinfo2renv",
+    "package": "sessioninfo2renv",
     "url": "https://codeberg.org/Bisaloo/sessioninfo2renv"
   },
   {
-    "package": "rome",
-    "url": "https://github.com/Huber-group-EMBL/rome"
+    "package": "romeo",
+    "url": "https://github.com/Huber-group-EMBL/romeo"
   },
   {
     "package": "ZarrArray",
