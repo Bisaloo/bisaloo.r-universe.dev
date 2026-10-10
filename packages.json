@@ -82,5 +82,13 @@
   {
     "package": "remart",
     "url": "https://github.com/Huber-group-EMBL/remart"
+  },
+  {
+    "package": "spatialdataR",
+    "url": "https://github.com/HelenaLC/spatialdataR"
+  },
+  {
+    "package": "SpatialData.plot",
+    "url": "https://github.com/HelenaLC/SpatialData.plot"
   }
 ]
